@@ -3,13 +3,13 @@ title: The Distance Formula
 ---
 ## The Distance Formula
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/mathematics/the-distance-formula/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
+<a href="https://www.codecogs.com/eqnedit.php?latex=\mathrm{Distance}=\sqrt{(x_{2}&plus;x_{1})^2&space;&plus;&space;(y_{2}&space;&plus;&space;y_{1})^2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathrm{Distance}=\sqrt{(x_{2}&plus;x_{1})^2&space;&plus;&space;(y_{2}&space;&plus;&space;y_{1})^2}" title="\mathrm{Distance}=\sqrt{(x_{2}+x_{1})^2 + (y_{2} + y_{1})^2}" /></a>
 
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
+The distance formula is a mathematical equation used to calculate the distance between two points using their x and y coordinates.
 
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+Suppose the first point is located at (x<sub>1</sub>, y<sub>1</sub>) and the second at (x<sub>2</sub>, y<sub>2</sub>).
+You would then procede to input each number into the equation above to calculate the distance.
 
-#### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
+Now this formula is derived from the Pythagorean theorem, which states: a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>.
 
-
+The distance is simply the hypotenuse of the right triangle created by the two points. And by rearranging the equation you get: d<sup>2</sup> = (x<sub>2</sub>, x<sub>1</sub>)<sup>2</sup> + (y<sub>2</sub>, y<sub>1</sub>)<sup>2</sup>. With (x<sub>2</sub>, x<sub>1</sub>) and (y<sub>2</sub>, y<sub>1</sub>) being the length of the two legs of the triangle.
